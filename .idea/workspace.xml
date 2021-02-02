@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4550b82-f926-4962-a74c-35fc03b89737" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/public/favicon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/Assets/Logo_ML.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/Assets/Logo_ML@2x.png.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/Assets/ic_Search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/Assets/ic_Search@2x.png.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/Assets/ic_shipping.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/Assets/ic_shipping@2x.png.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/actions/products.actions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/actions/productsTypes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/actions/test/products.actions.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/entries/home.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/entries/redux.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/icons/components/full-screen.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/icons/components/icon.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/icons/components/pause.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/icons/components/play 2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/icons/components/play.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/icons/components/volume.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/pages/components/ProductDetail.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/pages/components/homeComponent.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/pages/components/test/ProductDetail.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/pages/components/test/home.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/pages/containers/Pdp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/pages/containers/Plp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/pages/containers/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/reducers/data.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/reducers/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/reducers/products.reducer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/reducers/test/products.reducer.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/component/Filter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/component/FilterOptionsList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/component/HeaderForm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/component/Loading.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/component/NoProducts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/component/header.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/component/product.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/component/tests/Filter.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/component/tests/HeaderForm.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/component/tests/NoProducts.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/component/tests/header.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/container/FiltersList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/container/HeaderForm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/shared/container/productsList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/static/img/Logo_ML.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/static/img/Logo_ML@2x.png.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/components/_button.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/components/_filter.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/components/_header.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/components/_home.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/components/_no-products.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/components/_plp.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/components/_product-detail.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/components/_product.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/components/_products.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/components/_story.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/generic/_generic.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/index.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/settings/_settings.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/tags/_tags.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/tools/_functions.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/styles/tools/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/melitest/src/testing/testUtils.js" />
+      <change beforePath="$PROJECT_DIR$/melitest/README.md" afterPath="$PROJECT_DIR$/melitest/README.md" />
+      <change beforePath="$PROJECT_DIR$/melitest/package.json" afterPath="$PROJECT_DIR$/melitest/package.json" />
+      <change beforePath="$PROJECT_DIR$/melitest/public/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/melitest/public/index.html" afterPath="$PROJECT_DIR$/melitest/public/index.html" />
+      <change beforePath="$PROJECT_DIR$/melitest/src/index.js" afterPath="$PROJECT_DIR$/melitest/src/index.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>onProductClick</find>
+      <find>HeaderForm</find>
+      <find>wrapper</find>
+      <find>Filter</find>
+      <find>cpmspñe</find>
+      <find>handleSubmit</find>
+      <find>useState</find>
+      <find>expectedProps</find>
+      <find>onUpdateQuery</find>
+      <find>mockEvent</find>
+      <find>query</find>
+      <find>mocksetQuery</find>
+      <find>setQuery</find>
+      <find>history</find>
+      <find>renderProducts</find>
+      <find>Header</find>
+      <find>HeaderComponent</find>
+      <find>HEader</find>
+      <find>mapStateToProps</find>
+      <find>action</find>
+      <find>axios</find>
+      <find>createStoreWithMiddleware</find>
+      <find>storeFactory</find>
+      <find>store</find>
+      <find>compose</find>
+      <find>console.lo</find>
+      <find>c</find>
+      <find>console.o</find>
+      <find>console</find>
+      <find>NoProducts</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/melitest" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Projects/betterware-storefront/betterware-core-app" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/nike/homepages2/homepages-experience-management-tool" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/returns-backend" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/melitest/package.json" />
+        <option value="$PROJECT_DIR$/melitest/src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/melitest/src/styles/components/_header.scss" />
+        <option value="$PROJECT_DIR$/../react-router-platzi/PlatziVideo/src/components/Header.jsx" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/products.js" />
+        <option value="$PROJECT_DIR$/melitest/src/styles/settings/_settings.scss" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/container/FiltersList.js" />
+        <option value="$PROJECT_DIR$/melitest/src/styles/components/_plp.scss" />
+        <option value="$PROJECT_DIR$/melitest/src/styles/components/_no-products.scss" />
+        <option value="$PROJECT_DIR$/melitest/src/styles/tags/_tags.scss" />
+        <option value="$PROJECT_DIR$/melitest/src/actions/productsTypes.js" />
+        <option value="$PROJECT_DIR$/melitest/src/index.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/container/HeaderForm.js" />
+        <option value="$PROJECT_DIR$/melitest/src/styles/index.scss" />
+        <option value="$PROJECT_DIR$/melitest/node_modules/react-image-gallery/build/image-gallery.js" />
+        <option value="$PROJECT_DIR$/melitest/src/pages/containers/Pdp.js" />
+        <option value="$PROJECT_DIR$/melitest/src/styles/components/_filter.scss" />
+        <option value="$PROJECT_DIR$/melitest/src/styles/components/_product.scss" />
+        <option value="$PROJECT_DIR$/melitest/src/styles/components/_product-detail.scss" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/story.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/Loading.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/header.js" />
+        <option value="$PROJECT_DIR$/melitest/src/pages/components/homeComponent.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/Filter.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/tests/header.test.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/tests/NoProducts.test.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/NoProducts.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/HeaderForm.js" />
+        <option value="$PROJECT_DIR$/melitest/src/styles/components/_products.scss" />
+        <option value="$PROJECT_DIR$/melitest/public/index.html" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/tests/HeaderForm.test.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/container/productsList.js" />
+        <option value="$PROJECT_DIR$/melitest/src/pages/containers/Plp.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/container/header.js" />
+        <option value="$PROJECT_DIR$/melitest/src/pages/containers/main.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/FilterOptionsList.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/product.js" />
+        <option value="$PROJECT_DIR$/melitest/src/actions/products.actions.test.js" />
+        <option value="$PROJECT_DIR$/melitest/src/reducers/products.reducer.js" />
+        <option value="$PROJECT_DIR$/melitest/src/reducers/test/products.reducer.test.js" />
+        <option value="$PROJECT_DIR$/melitest/README.md" />
+        <option value="$PROJECT_DIR$/melitest/src/testing/testUtils.js" />
+        <option value="$PROJECT_DIR$/melitest/src/actions/test/products.actions.test.js" />
+        <option value="$PROJECT_DIR$/melitest/src/actions/products.actions.js" />
+        <option value="$PROJECT_DIR$/melitest/src/shared/component/tests/Filter.test.js" />
+        <option value="$PROJECT_DIR$/melitest/src/pages/test/pdp.test.js" />
+        <option value="$PROJECT_DIR$/melitest/src/pages/components/test/home.test.js" />
+        <option value="$PROJECT_DIR$/melitest/src/pages/components/ProductDetail.js" />
+        <option value="$PROJECT_DIR$/melitest/src/pages/components/test/ProductDetail.test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/melitest/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1440" />
+    <option name="y" value="-12" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="meli-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meli-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meli-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meli-test" type="462c0819:PsiDirectoryNode" />
+              <item name="melitest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meli-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meli-test" type="462c0819:PsiDirectoryNode" />
+              <item name="melitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meli-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meli-test" type="462c0819:PsiDirectoryNode" />
+              <item name="melitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meli-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meli-test" type="462c0819:PsiDirectoryNode" />
+              <item name="melitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jibanez/Documents/development/meli-test/melitest/src/shared/component/tests/Filter.test.js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/melitest/public" />
+      <recent name="$PROJECT_DIR$/melitest/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/melitest/public" />
+      <recent name="$PROJECT_DIR$/melitest/src/Assets" />
+      <recent name="$PROJECT_DIR$/melitest/src/shared/container" />
+      <recent name="$PROJECT_DIR$/melitest/src/styles/components" />
+      <recent name="$PROJECT_DIR$/melitest/src/styles/objects" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4550b82-f926-4962-a74c-35fc03b89737" name="Default" comment="" />
+      <created>1611722926321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611722926321</updated>
+      <workItem from="1611722928344" duration="3680000" />
+      <workItem from="1612041604290" duration="65880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69560000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="-12" width="1920" height="1057" extended-state="6" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20326488" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32640332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/melitest/src/pages/containers/main.js</url>
+          <properties lambdaOrdinal="-1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/melitest/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="1375" column="109" lean-forward="false" selection-start-line="1375" selection-start-column="109" selection-end-line="1375" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/styles/components/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/styles/tags/_tags.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/styles/components/_plp.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/styles/components/_no-products.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/styles/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/node_modules/react-image-gallery/build/image-gallery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="531" column="7" lean-forward="false" selection-start-line="531" selection-start-column="7" selection-end-line="531" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/styles/settings/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/styles/tools/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/styles/components/_product.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/styles/components/_filter.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/styles/components/_product-detail.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/component/story.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/Assets/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/public/favicon.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/component/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/component/Filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/styles/components/_products.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/component/tests/HeaderForm.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/component/HeaderForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/container/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/component/FilterOptionsList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/actions/productsTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="76" lean-forward="false" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/actions/products.actions.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="164">
+            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/reducers/test/products.reducer.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#62#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/reducers/products.reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/testing/testUtils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#43#83#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/component/tests/header.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/pages/test/pdp.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/component/tests/Filter.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/component/tests/NoProducts.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/pages/components/test/ProductDetail.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="49" lean-forward="false" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/actions/test/products.actions.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/pages/components/ProductDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/actions/products.actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="89" column="48" lean-forward="true" selection-start-line="89" selection-start-column="48" selection-end-line="89" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/pages/components/test/home.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/pages/components/homeComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/pages/containers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/component/Loading.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/component/NoProducts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/component/product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/container/FiltersList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/container/HeaderForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/shared/container/productsList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/pages/containers/Plp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melitest/src/pages/containers/Pdp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
